@@ -110,17 +110,3 @@ CREATE TABLE TBL_STUDENT(
 	CONSTRAINT STD_PK PRIMARY KEY(ID)
 );
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
