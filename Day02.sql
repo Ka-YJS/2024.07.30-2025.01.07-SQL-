@@ -313,25 +313,3 @@ WHERE FIRST_NAME NOT LIKE '%s%';
 --en, el 포함된 이름가진 사원들의 사번, 이름 검색
 SELECT EMPLOYEE_ID, FIRST_NAME  FROM EMPLOYEES 
 WHERE FIRST_NAME LIKE '%el%' OR FIRST_NAME LIKE '%en%';
-
---
-SELECT  FROM EMPLOYEES
-WHERE  LIKE ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
